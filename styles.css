@@ -1,0 +1,12 @@
+body{
+    background-color: pink;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.sound{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
